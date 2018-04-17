@@ -1,0 +1,16 @@
+{
+    "extends": "tslint:recommended",
+    "rules": {
+        "indent": [
+            true,
+            "spaces",
+            4
+        ],
+        "no-empty": false,
+        "quotemark": [
+            true,
+            "single",
+            "avoid-escape"
+        ]
+    }
+}
